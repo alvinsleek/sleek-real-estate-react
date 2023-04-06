@@ -39,7 +39,7 @@ const NavBar = ({ setStoredToken }) => {
             <li className="p-4">Home</li>
           </Link>
           <Link to="/mybookings">
-            <li className="p-4">My Bookings</li>
+            <li className="p-4">Bookings</li>
           </Link>
 
           <Link to="/">
